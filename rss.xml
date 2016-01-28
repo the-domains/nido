@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[nido]]></title>
         <description><![CDATA[nido]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nido/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 16:59:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Jan 2016 17:15:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nido/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f7505ae-7bb0-4f09-8fc5-7f2843200934.jpg">]]></description>
+            <link>https://thegrid.ai/nido/980b05b6-74c2-4e52-a776-04268d226aef/index.html</link>
+            <guid isPermaLink="false">980b05b6-74c2-4e52-a776-04268d226aef</guid>
+            <pubDate>Thu, 28 Jan 2016 17:15:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Il Nido</p>]]></description>
-            <link>undefinedf48d8a6d-3583-421f-aba3-c44c9b0cea19/index.html</link>
+            <link>https://thegrid.ai/nido/f48d8a6d-3583-421f-aba3-c44c9b0cea19/index.html</link>
             <guid isPermaLink="false">f48d8a6d-3583-421f-aba3-c44c9b0cea19</guid>
             <pubDate>Thu, 28 Jan 2016 16:59:49 GMT</pubDate>
         </item>
